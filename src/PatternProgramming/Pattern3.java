@@ -101,7 +101,7 @@ public class Pattern3 {
 		System.out.println();
 		System.out.println();
 
-		System.out.println("Pattern A:");
+		System.out.println("pattern A:");
 		System.out.println();
 		System.out.println();
 		System.out.println();
